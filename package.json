@@ -1,0 +1,12 @@
+{
+  "name": "typescript-cache-manager",
+  "version": "1.0.0",
+  "description": "Distributed Cache Management System",
+  "main": "dist/index.js",
+  "author": "Gabriel Demetrios Lafis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.0.0"
+  }
+}
